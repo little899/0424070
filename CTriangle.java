@@ -1,7 +1,7 @@
 class CTriangle extends CShape
 {
   protected int length,width,height;
-  public CTriangle(int l,int w,int h)
+  public CTriangle(double l,double w,double h)
   {
      length=l;
      width=w;
